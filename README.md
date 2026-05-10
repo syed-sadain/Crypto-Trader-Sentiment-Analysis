@@ -1,4 +1,4 @@
-🚀 Trader Behavior Analysis Using Market Sentiment (Fear & Greed Index)
+🚀 #Trader Behavior Analysis Using Market Sentiment (Fear & Greed Index)
 📌 Project Overview
 
 This project analyzes the relationship between market sentiment (Fear & Greed Index) and trader performance using real-world trading data.
